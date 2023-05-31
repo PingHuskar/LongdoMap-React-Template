@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: cornflowerblue;
+}
+
+body {
+  // display: flex;
+  // justify-content: center;
+  // align-items: center;
+  text-align: center;
+  background: #222;
+}
+
+h1 {
+  padding-top: 5vh;
+}
+
+input {
+  text-align: center;
+  width: 225px;
+  font-weight: bold;
+}
+
+button {
+  font-weight: bold;
+  padding: 0 5px;
+}
+
+#longdo-map {
+  width: 100vw;
+  height: 100vh;
+}
